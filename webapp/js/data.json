@@ -1,0 +1,1622 @@
+[
+  {
+    "Gm": "1",
+    "Date": "Monday Apr 3",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "KCR",
+    "Outcome": "W",
+    "R": "7",
+    "RA": "1"
+  },
+  {
+    "Gm": "2",
+    "Date": "Wednesday Apr 5",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "KCR",
+    "Outcome": "W",
+    "R": "9",
+    "RA": "1"
+  },
+  {
+    "Gm": "3",
+    "Date": "Thursday Apr 6",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "KCR",
+    "Outcome": "W",
+    "R": "5",
+    "RA": "3"
+  },
+  {
+    "Gm": "4",
+    "Date": "Friday Apr 7",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "CHW",
+    "Outcome": "W",
+    "R": "3",
+    "RA": "1"
+  },
+  {
+    "Gm": "5",
+    "Date": "Saturday Apr 8",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "CHW",
+    "Outcome": "L",
+    "R": "2",
+    "RA": "6"
+  },
+  {
+    "Gm": "6",
+    "Date": "Sunday Apr 9",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "CHW",
+    "Outcome": "W",
+    "R": "4",
+    "RA": "1"
+  },
+  {
+    "Gm": "7",
+    "Date": "Tuesday Apr 11",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "DET",
+    "Outcome": "L",
+    "R": "1",
+    "RA": "2"
+  },
+  {
+    "Gm": "8",
+    "Date": "Wednesday Apr 12",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "DET",
+    "Outcome": "L",
+    "R": "3",
+    "RA": "5"
+  },
+  {
+    "Gm": "9",
+    "Date": "Thursday Apr 13",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "DET",
+    "Outcome": "W",
+    "R": "11",
+    "RA": "5"
+  },
+  {
+    "Gm": "10",
+    "Date": "Friday Apr 14",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "CHW",
+    "Outcome": "L",
+    "R": "1",
+    "RA": "2"
+  },
+  {
+    "Gm": "11",
+    "Date": "Saturday Apr 15",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "CHW",
+    "Outcome": "W",
+    "R": "6",
+    "RA": "0"
+  },
+  {
+    "Gm": "12",
+    "Date": "Sunday Apr 16",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "CHW",
+    "Outcome": "L",
+    "R": "1",
+    "RA": "3"
+  },
+  {
+    "Gm": "13",
+    "Date": "Monday Apr 17",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "CLE",
+    "Outcome": "L",
+    "R": "1",
+    "RA": "3"
+  },
+  {
+    "Gm": "14",
+    "Date": "Tuesday Apr 18",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "CLE",
+    "Outcome": "L",
+    "R": "4",
+    "RA": "11"
+  },
+  {
+    "Gm": "15",
+    "Date": "Thursday Apr 20",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "CLE",
+    "Outcome": "L",
+    "R": "2",
+    "RA": "6"
+  },
+  {
+    "Gm": "16",
+    "Date": "Friday Apr 21",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "DET",
+    "Outcome": "W",
+    "R": "6",
+    "RA": "3"
+  },
+  {
+    "Gm": "17",
+    "Date": "Saturday Apr 22",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "DET",
+    "Outcome": "L",
+    "R": "4",
+    "RA": "5"
+  },
+  {
+    "Gm": "18",
+    "Date": "Sunday Apr 23",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "DET",
+    "Outcome": "L",
+    "R": "4",
+    "RA": "13"
+  },
+  {
+    "Gm": "19",
+    "Date": "Monday Apr 24",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "TEX",
+    "Outcome": "W",
+    "R": "3",
+    "RA": "2"
+  },
+  {
+    "Gm": "20",
+    "Date": "Tuesday Apr 25",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "TEX",
+    "Outcome": "W",
+    "R": "8",
+    "RA": "1"
+  },
+  {
+    "Gm": "21",
+    "Date": "Wednesday Apr 26",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "TEX",
+    "Outcome": "L",
+    "R": "3",
+    "RA": "14"
+  },
+  {
+    "Gm": "22",
+    "Date": "Friday Apr 28",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "KCR",
+    "Outcome": "W",
+    "R": "6",
+    "RA": "4"
+  },
+  {
+    "Gm": "23",
+    "Date": "Sunday Apr 30",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "KCR",
+    "Outcome": "W",
+    "R": "7",
+    "RA": "5"
+  },
+  {
+    "Gm": "24",
+    "Date": "Tuesday May 2",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "OAK",
+    "Outcome": "W",
+    "R": "9",
+    "RA": "1"
+  },
+  {
+    "Gm": "25",
+    "Date": "Wednesday May 3",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "OAK",
+    "Outcome": "W",
+    "R": "7",
+    "RA": "4"
+  },
+  {
+    "Gm": "26",
+    "Date": "Thursday May 4",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "OAK",
+    "Outcome": "L",
+    "R": "5",
+    "RA": "8"
+  },
+  {
+    "Gm": "27",
+    "Date": "Friday May 5",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "BOS",
+    "Outcome": "W-wo",
+    "R": "4",
+    "RA": "3"
+  },
+  {
+    "Gm": "28",
+    "Date": "Saturday May 6",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "BOS",
+    "Outcome": "L",
+    "R": "1",
+    "RA": "11"
+  },
+  {
+    "Gm": "29",
+    "Date": "Sunday May 7",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "BOS",
+    "Outcome": "L",
+    "R": "6",
+    "RA": "17"
+  },
+  {
+    "Gm": "30",
+    "Date": "Tuesday May 9",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "CHW",
+    "Outcome": "W",
+    "R": "7",
+    "RA": "2"
+  },
+  {
+    "Gm": "31",
+    "Date": "Thursday May 11",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "CHW",
+    "Outcome": "W",
+    "R": "7",
+    "RA": "6"
+  },
+  {
+    "Gm": "32",
+    "Date": "Friday May 12",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "CLE",
+    "Outcome": "W",
+    "R": "1",
+    "RA": "0"
+  },
+  {
+    "Gm": "33",
+    "Date": "Saturday May 13",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "CLE",
+    "Outcome": "W",
+    "R": "4",
+    "RA": "1"
+  },
+  {
+    "Gm": "34",
+    "Date": "Sunday May 14",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "CLE",
+    "Outcome": "L",
+    "R": "3",
+    "RA": "8"
+  },
+  {
+    "Gm": "35",
+    "Date": "Tuesday May 16",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "COL",
+    "Outcome": "L",
+    "R": "3",
+    "RA": "7"
+  },
+  {
+    "Gm": "36",
+    "Date": "Thursday May 18 (1)",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "COL",
+    "Outcome": "L",
+    "R": "1",
+    "RA": "5"
+  },
+  {
+    "Gm": "37",
+    "Date": "Thursday May 18 (2)",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "COL",
+    "Outcome": "W",
+    "R": "2",
+    "RA": "0"
+  },
+  {
+    "Gm": "38",
+    "Date": "Friday May 19",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "KCR",
+    "Outcome": "W-wo",
+    "R": "4",
+    "RA": "3"
+  },
+  {
+    "Gm": "39",
+    "Date": "Sunday May 21 (1)",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "KCR",
+    "Outcome": "L",
+    "R": "4",
+    "RA": "6"
+  },
+  {
+    "Gm": "40",
+    "Date": "Sunday May 21 (2)",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "KCR",
+    "Outcome": "W",
+    "R": "8",
+    "RA": "4"
+  },
+  {
+    "Gm": "41",
+    "Date": "Monday May 22",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "BAL",
+    "Outcome": "W",
+    "R": "14",
+    "RA": "7"
+  },
+  {
+    "Gm": "42",
+    "Date": "Tuesday May 23",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "BAL",
+    "Outcome": "W",
+    "R": "2",
+    "RA": "0"
+  },
+  {
+    "Gm": "43",
+    "Date": "Wednesday May 24",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "BAL",
+    "Outcome": "W",
+    "R": "4",
+    "RA": "3"
+  },
+  {
+    "Gm": "44",
+    "Date": "Friday May 26",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "TBR",
+    "Outcome": "L",
+    "R": "2",
+    "RA": "5"
+  },
+  {
+    "Gm": "45",
+    "Date": "Saturday May 27",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "TBR",
+    "Outcome": "W",
+    "R": "5",
+    "RA": "3"
+  },
+  {
+    "Gm": "46",
+    "Date": "Sunday May 28",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "TBR",
+    "Outcome": "L",
+    "R": "6",
+    "RA": "8"
+  },
+  {
+    "Gm": "47",
+    "Date": "Monday May 29",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "HOU",
+    "Outcome": "L",
+    "R": "8",
+    "RA": "16"
+  },
+  {
+    "Gm": "48",
+    "Date": "Tuesday May 30",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "HOU",
+    "Outcome": "L",
+    "R": "2",
+    "RA": "7"
+  },
+  {
+    "Gm": "49",
+    "Date": "Wednesday May 31",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "HOU",
+    "Outcome": "L",
+    "R": "6",
+    "RA": "17"
+  },
+  {
+    "Gm": "50",
+    "Date": "Thursday Jun 1",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "LAA",
+    "Outcome": "W",
+    "R": "4",
+    "RA": "2"
+  },
+  {
+    "Gm": "51",
+    "Date": "Friday Jun 2",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "LAA",
+    "Outcome": "W",
+    "R": "11",
+    "RA": "5"
+  },
+  {
+    "Gm": "52",
+    "Date": "Saturday Jun 3",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "LAA",
+    "Outcome": "L",
+    "R": "2",
+    "RA": "7"
+  },
+  {
+    "Gm": "53",
+    "Date": "Sunday Jun 4",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "LAA",
+    "Outcome": "W",
+    "R": "3",
+    "RA": "2"
+  },
+  {
+    "Gm": "54",
+    "Date": "Tuesday Jun 6",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "SEA",
+    "Outcome": "L",
+    "R": "3",
+    "RA": "12"
+  },
+  {
+    "Gm": "55",
+    "Date": "Wednesday Jun 7",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "SEA",
+    "Outcome": "L-wo",
+    "R": "5",
+    "RA": "6"
+  },
+  {
+    "Gm": "56",
+    "Date": "Thursday Jun 8",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "SEA",
+    "Outcome": "W",
+    "R": "2",
+    "RA": "1"
+  },
+  {
+    "Gm": "57",
+    "Date": "Friday Jun 9",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "SFG",
+    "Outcome": "W",
+    "R": "4",
+    "RA": "0"
+  },
+  {
+    "Gm": "58",
+    "Date": "Saturday Jun 10",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "SFG",
+    "Outcome": "W",
+    "R": "3",
+    "RA": "2"
+  },
+  {
+    "Gm": "59",
+    "Date": "Sunday Jun 11",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "SFG",
+    "Outcome": "L",
+    "R": "8",
+    "RA": "13"
+  },
+  {
+    "Gm": "60",
+    "Date": "Monday Jun 12",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "SEA",
+    "Outcome": "L",
+    "R": "3",
+    "RA": "14"
+  },
+  {
+    "Gm": "61",
+    "Date": "Tuesday Jun 13",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "SEA",
+    "Outcome": "W",
+    "R": "20",
+    "RA": "7"
+  },
+  {
+    "Gm": "62",
+    "Date": "Wednesday Jun 14",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "SEA",
+    "Outcome": "L",
+    "R": "4",
+    "RA": "6"
+  },
+  {
+    "Gm": "63",
+    "Date": "Thursday Jun 15",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "SEA",
+    "Outcome": "W",
+    "R": "6",
+    "RA": "2"
+  },
+  {
+    "Gm": "64",
+    "Date": "Friday Jun 16",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "CLE",
+    "Outcome": "L",
+    "R": "1",
+    "RA": "8"
+  },
+  {
+    "Gm": "65",
+    "Date": "Saturday Jun 17 (1)",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "CLE",
+    "Outcome": "L",
+    "R": "3",
+    "RA": "9"
+  },
+  {
+    "Gm": "66",
+    "Date": "Saturday Jun 17 (2)",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "CLE",
+    "Outcome": "L",
+    "R": "2",
+    "RA": "6"
+  },
+  {
+    "Gm": "67",
+    "Date": "Sunday Jun 18",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "CLE",
+    "Outcome": "L",
+    "R": "2",
+    "RA": "5"
+  },
+  {
+    "Gm": "68",
+    "Date": "Tuesday Jun 20",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "CHW",
+    "Outcome": "W",
+    "R": "9",
+    "RA": "7"
+  },
+  {
+    "Gm": "69",
+    "Date": "Wednesday Jun 21",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "CHW",
+    "Outcome": "W",
+    "R": "4",
+    "RA": "2"
+  },
+  {
+    "Gm": "70",
+    "Date": "Thursday Jun 22",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "CHW",
+    "Outcome": "L",
+    "R": "0",
+    "RA": "9"
+  },
+  {
+    "Gm": "71",
+    "Date": "Friday Jun 23",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "CLE",
+    "Outcome": "W",
+    "R": "5",
+    "RA": "0"
+  },
+  {
+    "Gm": "72",
+    "Date": "Saturday Jun 24",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "CLE",
+    "Outcome": "W",
+    "R": "4",
+    "RA": "2"
+  },
+  {
+    "Gm": "73",
+    "Date": "Sunday Jun 25",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "CLE",
+    "Outcome": "W",
+    "R": "4",
+    "RA": "0"
+  },
+  {
+    "Gm": "74",
+    "Date": "Monday Jun 26",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "BOS",
+    "Outcome": "L",
+    "R": "1",
+    "RA": "4"
+  },
+  {
+    "Gm": "75",
+    "Date": "Tuesday Jun 27",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "BOS",
+    "Outcome": "L",
+    "R": "2",
+    "RA": "9"
+  },
+  {
+    "Gm": "76",
+    "Date": "Wednesday Jun 28",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "BOS",
+    "Outcome": "W",
+    "R": "4",
+    "RA": "1"
+  },
+  {
+    "Gm": "77",
+    "Date": "Thursday Jun 29",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "BOS",
+    "Outcome": "L",
+    "R": "3",
+    "RA": "6"
+  },
+  {
+    "Gm": "78",
+    "Date": "Friday Jun 30",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "KCR",
+    "Outcome": "L",
+    "R": "1",
+    "RA": "8"
+  },
+  {
+    "Gm": "79",
+    "Date": "Saturday Jul 1 (1)",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "KCR",
+    "Outcome": "L",
+    "R": "6",
+    "RA": "11"
+  },
+  {
+    "Gm": "80",
+    "Date": "Saturday Jul 1 (2)",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "KCR",
+    "Outcome": "W",
+    "R": "10",
+    "RA": "5"
+  },
+  {
+    "Gm": "81",
+    "Date": "Sunday Jul 2",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "KCR",
+    "Outcome": "L",
+    "R": "2",
+    "RA": "6"
+  },
+  {
+    "Gm": "82",
+    "Date": "Monday Jul 3",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "LAA",
+    "Outcome": "W",
+    "R": "9",
+    "RA": "5"
+  },
+  {
+    "Gm": "83",
+    "Date": "Tuesday Jul 4",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "LAA",
+    "Outcome": "W",
+    "R": "5",
+    "RA": "4"
+  },
+  {
+    "Gm": "84",
+    "Date": "Wednesday Jul 5",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "LAA",
+    "Outcome": "L",
+    "R": "1",
+    "RA": "2"
+  },
+  {
+    "Gm": "85",
+    "Date": "Thursday Jul 6",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "BAL",
+    "Outcome": "W",
+    "R": "6",
+    "RA": "4"
+  },
+  {
+    "Gm": "86",
+    "Date": "Friday Jul 7",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "BAL",
+    "Outcome": "W",
+    "R": "9",
+    "RA": "6"
+  },
+  {
+    "Gm": "87",
+    "Date": "Saturday Jul 8",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "BAL",
+    "Outcome": "L",
+    "R": "1",
+    "RA": "5"
+  },
+  {
+    "Gm": "88",
+    "Date": "Sunday Jul 9",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "BAL",
+    "Outcome": "L",
+    "R": "5",
+    "RA": "11"
+  },
+  {
+    "Gm": "89",
+    "Date": "Friday Jul 14",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "HOU",
+    "Outcome": "L",
+    "R": "5",
+    "RA": "10"
+  },
+  {
+    "Gm": "90",
+    "Date": "Saturday Jul 15",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "HOU",
+    "Outcome": "W",
+    "R": "4",
+    "RA": "2"
+  },
+  {
+    "Gm": "91",
+    "Date": "Sunday Jul 16",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "HOU",
+    "Outcome": "L",
+    "R": "3",
+    "RA": "5"
+  },
+  {
+    "Gm": "92",
+    "Date": "Monday Jul 17",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "NYY",
+    "Outcome": "W",
+    "R": "4",
+    "RA": "2"
+  },
+  {
+    "Gm": "93",
+    "Date": "Tuesday Jul 18",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "NYY",
+    "Outcome": "L",
+    "R": "3",
+    "RA": "6"
+  },
+  {
+    "Gm": "94",
+    "Date": "Wednesday Jul 19",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "NYY",
+    "Outcome": "W",
+    "R": "6",
+    "RA": "1"
+  },
+  {
+    "Gm": "95",
+    "Date": "Friday Jul 21",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "DET",
+    "Outcome": "L",
+    "R": "3",
+    "RA": "6"
+  },
+  {
+    "Gm": "96",
+    "Date": "Saturday Jul 22",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "DET",
+    "Outcome": "W",
+    "R": "6",
+    "RA": "5"
+  },
+  {
+    "Gm": "97",
+    "Date": "Sunday Jul 23",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "DET",
+    "Outcome": "L",
+    "R": "6",
+    "RA": "9"
+  },
+  {
+    "Gm": "98",
+    "Date": "Monday Jul 24",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "LAD",
+    "Outcome": "L",
+    "R": "4",
+    "RA": "6"
+  },
+  {
+    "Gm": "99",
+    "Date": "Tuesday Jul 25",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "LAD",
+    "Outcome": "L",
+    "R": "2",
+    "RA": "6"
+  },
+  {
+    "Gm": "100",
+    "Date": "Wednesday Jul 26",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "LAD",
+    "Outcome": "L-wo",
+    "R": "5",
+    "RA": "6"
+  },
+  {
+    "Gm": "101",
+    "Date": "Friday Jul 28",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "OAK",
+    "Outcome": "W",
+    "R": "6",
+    "RA": "3"
+  },
+  {
+    "Gm": "102",
+    "Date": "Saturday Jul 29",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "OAK",
+    "Outcome": "L-wo",
+    "R": "4",
+    "RA": "5"
+  },
+  {
+    "Gm": "103",
+    "Date": "Sunday Jul 30",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "OAK",
+    "Outcome": "L-wo",
+    "R": "5",
+    "RA": "6"
+  },
+  {
+    "Gm": "104",
+    "Date": "Tuesday Aug 1",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "SDP",
+    "Outcome": "L",
+    "R": "0",
+    "RA": "3"
+  },
+  {
+    "Gm": "105",
+    "Date": "Wednesday Aug 2",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "SDP",
+    "Outcome": "W",
+    "R": "5",
+    "RA": "2"
+  },
+  {
+    "Gm": "106",
+    "Date": "Thursday Aug 3",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "TEX",
+    "Outcome": "L",
+    "R": "1",
+    "RA": "4"
+  },
+  {
+    "Gm": "107",
+    "Date": "Friday Aug 4",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "TEX",
+    "Outcome": "W",
+    "R": "8",
+    "RA": "4"
+  },
+  {
+    "Gm": "108",
+    "Date": "Saturday Aug 5",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "TEX",
+    "Outcome": "L",
+    "R": "1",
+    "RA": "4"
+  },
+  {
+    "Gm": "109",
+    "Date": "Sunday Aug 6",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "TEX",
+    "Outcome": "W",
+    "R": "6",
+    "RA": "5"
+  },
+  {
+    "Gm": "110",
+    "Date": "Monday Aug 7",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "MIL",
+    "Outcome": "W",
+    "R": "5",
+    "RA": "4"
+  },
+  {
+    "Gm": "111",
+    "Date": "Tuesday Aug 8",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "MIL",
+    "Outcome": "W",
+    "R": "11",
+    "RA": "4"
+  },
+  {
+    "Gm": "112",
+    "Date": "Wednesday Aug 9",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "MIL",
+    "Outcome": "W",
+    "R": "4",
+    "RA": "0"
+  },
+  {
+    "Gm": "113",
+    "Date": "Thursday Aug 10",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "MIL",
+    "Outcome": "W",
+    "R": "7",
+    "RA": "2"
+  },
+  {
+    "Gm": "114",
+    "Date": "Friday Aug 11",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "DET",
+    "Outcome": "W",
+    "R": "9",
+    "RA": "4"
+  },
+  {
+    "Gm": "115",
+    "Date": "Saturday Aug 12",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "DET",
+    "Outcome": "L-wo",
+    "R": "11",
+    "RA": "12"
+  },
+  {
+    "Gm": "116",
+    "Date": "Sunday Aug 13",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "DET",
+    "Outcome": "W",
+    "R": "6",
+    "RA": "4"
+  },
+  {
+    "Gm": "117",
+    "Date": "Tuesday Aug 15",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "CLE",
+    "Outcome": "L",
+    "R": "1",
+    "RA": "8"
+  },
+  {
+    "Gm": "118",
+    "Date": "Thursday Aug 17 (1)",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "CLE",
+    "Outcome": "L",
+    "R": "3",
+    "RA": "9"
+  },
+  {
+    "Gm": "119",
+    "Date": "Thursday Aug 17 (2)",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "CLE",
+    "Outcome": "W",
+    "R": "4",
+    "RA": "2"
+  },
+  {
+    "Gm": "120",
+    "Date": "Friday Aug 18",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "ARI",
+    "Outcome": "W",
+    "R": "10",
+    "RA": "3"
+  },
+  {
+    "Gm": "121",
+    "Date": "Saturday Aug 19",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "ARI",
+    "Outcome": "W",
+    "R": "5",
+    "RA": "0"
+  },
+  {
+    "Gm": "122",
+    "Date": "Sunday Aug 20",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "ARI",
+    "Outcome": "W",
+    "R": "12",
+    "RA": "5"
+  },
+  {
+    "Gm": "123",
+    "Date": "Monday Aug 21 (1)",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "CHW",
+    "Outcome": "L",
+    "R": "6",
+    "RA": "7"
+  },
+  {
+    "Gm": "124",
+    "Date": "Monday Aug 21 (2)",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "CHW",
+    "Outcome": "W",
+    "R": "10",
+    "RA": "2"
+  },
+  {
+    "Gm": "125",
+    "Date": "Tuesday Aug 22",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "CHW",
+    "Outcome": "W",
+    "R": "4",
+    "RA": "1"
+  },
+  {
+    "Gm": "126",
+    "Date": "Wednesday Aug 23",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "CHW",
+    "Outcome": "L-wo",
+    "R": "3",
+    "RA": "4"
+  },
+  {
+    "Gm": "127",
+    "Date": "Thursday Aug 24",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "CHW",
+    "Outcome": "L",
+    "R": "1",
+    "RA": "5"
+  },
+  {
+    "Gm": "128",
+    "Date": "Friday Aug 25",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "TOR",
+    "Outcome": "W",
+    "R": "6",
+    "RA": "1"
+  },
+  {
+    "Gm": "129",
+    "Date": "Saturday Aug 26",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "TOR",
+    "Outcome": "L",
+    "R": "9",
+    "RA": "10"
+  },
+  {
+    "Gm": "130",
+    "Date": "Sunday Aug 27",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "TOR",
+    "Outcome": "W",
+    "R": "7",
+    "RA": "2"
+  },
+  {
+    "Gm": "131",
+    "Date": "Tuesday Aug 29",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "CHW",
+    "Outcome": "W",
+    "R": "6",
+    "RA": "4"
+  },
+  {
+    "Gm": "132",
+    "Date": "Wednesday Aug 30",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "CHW",
+    "Outcome": "W",
+    "R": "11",
+    "RA": "1"
+  },
+  {
+    "Gm": "133",
+    "Date": "Thursday Aug 31",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "CHW",
+    "Outcome": "W-wo",
+    "R": "5",
+    "RA": "4"
+  },
+  {
+    "Gm": "134",
+    "Date": "Friday Sep 1",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "KCR",
+    "Outcome": "L",
+    "R": "6",
+    "RA": "7"
+  },
+  {
+    "Gm": "135",
+    "Date": "Saturday Sep 2",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "KCR",
+    "Outcome": "W",
+    "R": "17",
+    "RA": "0"
+  },
+  {
+    "Gm": "136",
+    "Date": "Sunday Sep 3",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "KCR",
+    "Outcome": "L",
+    "R": "4",
+    "RA": "5"
+  },
+  {
+    "Gm": "137",
+    "Date": "Monday Sep 4",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "TBR",
+    "Outcome": "L",
+    "R": "4",
+    "RA": "11"
+  },
+  {
+    "Gm": "138",
+    "Date": "Tuesday Sep 5",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "TBR",
+    "Outcome": "L",
+    "R": "1",
+    "RA": "2"
+  },
+  {
+    "Gm": "139",
+    "Date": "Wednesday Sep 6",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "TBR",
+    "Outcome": "W",
+    "R": "10",
+    "RA": "6"
+  },
+  {
+    "Gm": "140",
+    "Date": "Thursday Sep 7",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "KCR",
+    "Outcome": "W",
+    "R": "4",
+    "RA": "2"
+  },
+  {
+    "Gm": "141",
+    "Date": "Friday Sep 8",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "KCR",
+    "Outcome": "W",
+    "R": "8",
+    "RA": "5"
+  },
+  {
+    "Gm": "142",
+    "Date": "Saturday Sep 9",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "KCR",
+    "Outcome": "L",
+    "R": "2",
+    "RA": "5"
+  },
+  {
+    "Gm": "143",
+    "Date": "Sunday Sep 10",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "KCR",
+    "Outcome": "L",
+    "R": "3",
+    "RA": "11"
+  },
+  {
+    "Gm": "144",
+    "Date": "Tuesday Sep 12",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "SDP",
+    "Outcome": "W",
+    "R": "16",
+    "RA": "0"
+  },
+  {
+    "Gm": "145",
+    "Date": "Wednesday Sep 13",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "SDP",
+    "Outcome": "W-wo",
+    "R": "3",
+    "RA": "1"
+  },
+  {
+    "Gm": "146",
+    "Date": "Thursday Sep 14",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "TOR",
+    "Outcome": "W-wo",
+    "R": "3",
+    "RA": "2"
+  },
+  {
+    "Gm": "147",
+    "Date": "Friday Sep 15",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "TOR",
+    "Outcome": "L",
+    "R": "3",
+    "RA": "4"
+  },
+  {
+    "Gm": "148",
+    "Date": "Saturday Sep 16",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "TOR",
+    "Outcome": "L",
+    "R": "2",
+    "RA": "7"
+  },
+  {
+    "Gm": "149",
+    "Date": "Sunday Sep 17",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "TOR",
+    "Outcome": "W",
+    "R": "13",
+    "RA": "7"
+  },
+  {
+    "Gm": "150",
+    "Date": "Monday Sep 18",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "NYY",
+    "Outcome": "L",
+    "R": "1",
+    "RA": "2"
+  },
+  {
+    "Gm": "151",
+    "Date": "Tuesday Sep 19",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "NYY",
+    "Outcome": "L",
+    "R": "2",
+    "RA": "5"
+  },
+  {
+    "Gm": "152",
+    "Date": "Wednesday Sep 20",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "NYY",
+    "Outcome": "L",
+    "R": "3",
+    "RA": "11"
+  },
+  {
+    "Gm": "153",
+    "Date": "Thursday Sep 21",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "DET",
+    "Outcome": "W",
+    "R": "12",
+    "RA": "1"
+  },
+  {
+    "Gm": "154",
+    "Date": "Friday Sep 22",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "DET",
+    "Outcome": "W",
+    "R": "7",
+    "RA": "3"
+  },
+  {
+    "Gm": "155",
+    "Date": "Saturday Sep 23",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "DET",
+    "Outcome": "W",
+    "R": "10",
+    "RA": "4"
+  },
+  {
+    "Gm": "156",
+    "Date": "Sunday Sep 24",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "DET",
+    "Outcome": "W",
+    "R": "10",
+    "RA": "4"
+  },
+  {
+    "Gm": "157",
+    "Date": "Tuesday Sep 26",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "CLE",
+    "Outcome": "W",
+    "R": "8",
+    "RA": "6"
+  },
+  {
+    "Gm": "158",
+    "Date": "Wednesday Sep 27",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "CLE",
+    "Outcome": "L",
+    "R": "2",
+    "RA": "4"
+  },
+  {
+    "Gm": "159",
+    "Date": "Thursday Sep 28",
+    "Tm": "MIN",
+    "Loc": "@",
+    "Opp": "CLE",
+    "Outcome": "L",
+    "R": "2",
+    "RA": "5"
+  },
+  {
+    "Gm": "160",
+    "Date": "Friday Sep 29",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "DET",
+    "Outcome": "W",
+    "R": "6",
+    "RA": "3"
+  },
+  {
+    "Gm": "161",
+    "Date": "Saturday Sep 30",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "DET",
+    "Outcome": "L",
+    "R": "2",
+    "RA": "3"
+  },
+  {
+    "Gm": "162",
+    "Date": "Sunday Oct 1",
+    "Tm": "MIN",
+    "Loc": "",
+    "Opp": "DET",
+    "Outcome": "W",
+    "R": "5",
+    "RA": "1"
+  }
+]

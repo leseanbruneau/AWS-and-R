@@ -1,0 +1,64 @@
+body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+.title_line {
+	font-weight: bold;
+	text-align: center;
+	width: 100%;
+}
+
+table {
+	width: 80%;
+}
+
+.table-scroll thead {
+	display: table;
+	table-layout: fixed;
+	margin-right: 17px;
+}
+
+.table-scroll th {
+	background-color: yellow;
+	vertical-align: middle;
+	text-align: center;
+	text-weight: bold;
+}
+
+.table-scroll tbody {
+	height: 500px;
+	overflow: auto;
+	display: block;
+	table-layout: fixed;
+}
+
+.table-scroll tr {
+	display: table;
+	table-layout: fixed;
+	width: 100%;
+	height: 20px;
+}
+
+.homegame { 
+	background: #fff; 
+}
+
+.roadgame { 
+	background: #b3b3b3; 
+}
+
+.outcome-loss {
+	font-weight: bold;
+	color: #800000;
+	background-color: #ff8080;
+}
+
+.outcome-win {
+	font-weight: bold;
+	color:#006600;
+	background-color: #00ff00;
+}
+
+
