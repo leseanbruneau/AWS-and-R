@@ -17,16 +17,29 @@ names(mlb_2017) <- c("GmNo","Date","Pre.Sum","Tm","Loc","Opp","Outcome","R","RA"
 #Example 1.  For Minnesota Twins (MIN) team
 tg <- teamGames(mlb_2017,"MIN")
 
+#Windows RStudio
 write_json(tg,"c:\\R\\data.json", pretty = TRUE)
+#EC2 RStudio Server - through a web browser
+#write_json(tg,"/home/rstudio/data.json", pretty = TRUE)
 
 ### Replace <YOUR_S3_BUCKET_NAME> with name of your AWS S3 bucket
-put_object(file = "c:\\R\\data.json", object = "R/data.json", bucket = "<YOUR_S3_BUCKET_NAME>", acl = c("public-read"))
+#Windows RStudio
+put_object(file = "c:\\R\\data.json", object = "webapp/js/data.json", bucket = "<YOUR_S3_BUCKET_NAME>", acl = c("public-read"))
+#EC2 RStudio Server - through a web browser
+#put_object(file = "/home/rstudio/data.json", object = "webapp/js/data.json", bucket = "<YOUR_S3_BUCKET_NAME>", acl = c("public-read"))
 
 
 #Example 2.  For Atlanta Braves (ATL) team
 tg <- teamGames(mlb_2017,"ATL")
 
+#Windows RStudio
 write_json(tg,"c:\\R\\data.json", pretty = TRUE)
+#EC2 RStudio Server - through a web browser
+#write_json(tg,"/home/rstudio/data.json", pretty = TRUE)
 
 ### Replace <YOUR_S3_BUCKET_NAME> with name of your AWS S3 bucket
-put_object(file = "c:\\R\\data.json", object = "R/data.json", bucket = "<YOUR_S3_BUCKET_NAME>", acl = c("public-read"))
+#Windows RStudio
+put_object(file = "c:\\R\\data.json", object = "webapp/js/data.json", bucket = "<YOUR_S3_BUCKET_NAME>", acl = c("public-read"))
+#EC2 RStudio Server - through a web browser
+#put_object(file = "/home/rstudio/data.json", object = "webapp/js/data.json", bucket = "<YOUR_S3_BUCKET_NAME>", acl = c("public-read"))
+
