@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # NOTE:  These scripts need to be run with root access
-#  >  sudo ./Script11_install_ec2_sudo.sh
+#  >  sudo ./Script1_install_ec2_sudo.sh
 
 echo 'Install utilities needed for R installation...'
 

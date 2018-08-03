@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # NOTE:  These scripts need to be run with root access
-#  >  sudo ./Script33_install_R_sudo.sh
+#  >  sudo ./Script3_install_R_sudo.sh
 
 cd /home/ec2-user/lib/R-3.5.1
 
@@ -14,10 +14,6 @@ ln -s /opt/R/3.5.1/bin/R/bin/R /usr/local/bin/R
 
 export PATH=$PATH:/opt/R/3.5.1/bin/R/bin
 export RSTUDIO_WHICH_R=/opt/R/3.5.1/bin/R/bin/R
-
-export PATH=$PATH:/opt/R/3.5.1/bin
-export RSTUDIO_WHICH_R=/home/ec2-user/R-3.5.1/bin/R
-
 
 #install RStudio
 cd /home/ec2-user/lib

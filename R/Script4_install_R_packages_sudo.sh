@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # NOTE:  These scripts need to be run with root access
-#  >  sudo ./Script44_install_R_packages_sudo.sh
+#  >  sudo ./Script4_install_R_packages_sudo.sh
 
 R CMD INSTALL /home/ec2-user/lib/jsonlite_1.5.tar.gz
 R CMD INSTALL /home/ec2-user/lib/mime_0.5.tar.gz
