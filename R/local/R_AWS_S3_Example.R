@@ -22,6 +22,13 @@
 library("aws.s3")
 library("jsonlite")
 
+#create function to select output data
+teamGames <- function(games, team) {
+	
+	teamGames <- subset(games, (games$Tm == team), select = c("GmNo","Date","Tm","Loc","Opp","Outcome","R","RA","Streak") )
+	  
+	return(teamGames)
+}
 
 #Load all 2017 MLB season games into mlb_2017 data.table
 ### Replace <YOUR_S3_BUCKET_NAME> with name of your AWS S3 bucket
