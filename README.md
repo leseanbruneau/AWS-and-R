@@ -1,5 +1,5 @@
 # R-and-AWS
-http://datascieneceexamples.com Blog
+Blog:  http://datascieneceexamples.com 
 Blog Posts - 
-RStudio Local and AWS S3
-RStudio Server on AWS EC2
+  RStudio Local and AWS S3;
+  RStudio Server on AWS EC2
